@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>gche.gif</file>
+        <file>gjiang.gif</file>
+        <file>gma.gif</file>
+        <file>gpao.gif</file>
+        <file>gshi.gif</file>
+        <file>gxiang.gif</file>
+        <file>gzu.gif</file>
+        <file>hbing.gif</file>
+        <file>hche.gif</file>
+        <file>hjiang.gif</file>
+        <file>hma.gif</file>
+        <file>hpao.gif</file>
+        <file>hshi.gif</file>
+        <file>hxiang.gif</file>
+        <file>back.png</file>
+        <file>chess_back.png</file>
+        <file>tab_back.png</file>
+        <file>back_grey.png</file>
+        <file>back_white.png</file>
+        <file>back.jfif</file>
+        <file>back.jpg</file>
+        <file>gche.png</file>
+        <file>gjiang.png</file>
+        <file>gma.png</file>
+        <file>gpao.png</file>
+        <file>gshi.png</file>
+        <file>gxiang.png</file>
+        <file>gzu.png</file>
+        <file>hbing.png</file>
+        <file>hche.png</file>
+        <file>hjiang.png</file>
+        <file>hma.png</file>
+        <file>hpao.png</file>
+        <file>hshi.png</file>
+        <file>hxiang.png</file>
+        <file>res.qrc</file>
+    </qresource>
+</RCC>
